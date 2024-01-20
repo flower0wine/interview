@@ -5,4 +5,4 @@
 
 ![image](https://github.com/flower0wine/interview/assets/98141596/be203c1d-20b5-4ceb-a5f7-60290310e65e)
 
-
+点击首页的快速开始进入教程。[宜搭快速开始](https://developers.aliwork.com/docs/guide/start)。
